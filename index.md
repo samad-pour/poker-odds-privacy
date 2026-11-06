@@ -2,7 +2,7 @@
 
 *Last updated: November 6, 2026*
 
-This policy explains what data the PokerOdds app for iOS and Android ("the app") handles. The app is provided by [YOUR NAME], [YOUR POSTAL ADDRESS] ("we"), who is responsible for the data described here.
+This policy explains what data the PokerOdds app for iOS and Android ("the app") handles. The app is provided by Samad Pour, Kurvenstrasse 1, 9062 Lustmühle ("we"), who is responsible for the data described here.
 
 ## The short version
 
@@ -56,4 +56,4 @@ If this policy changes, we'll update this page and the date at the top.
 
 ## Contact
 
-Questions or requests: [YOUR EMAIL ADDRESS]
+Questions or requests: samad.pour.dev@gmail.com
