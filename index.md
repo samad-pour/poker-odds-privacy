@@ -1,3 +1,4 @@
+[index.md](https://github.com/user-attachments/files/34492366/index.md)
 # PokerOdds Privacy Policy
 
 *Last updated: November 6, 2026*
@@ -10,6 +11,20 @@ This policy explains what data the PokerOdds app for iOS and Android ("the app")
 - The cards you enter and the odds you see stay on your device.
 - The app has no ads and doesn't track you across other apps or websites.
 - The only data that leaves your device relates to in-app purchases, and it is handled by our purchase provider, RevenueCat.
+
+## Delete your data
+
+To ask us to delete your PokerOdds data:
+
+1. Email [YOUR EMAIL ADDRESS] with the subject "PokerOdds data deletion".
+2. Include your Google Play order number or Apple receipt, so we can find your anonymous record.
+3. We'll confirm when your data has been deleted, within 30 days.
+
+**What we delete:** the anonymous ID, purchase information and device details held by RevenueCat for you.
+
+**What we keep:** only the purchase records the law requires us to keep, such as for tax and accounting, for as long as that law requires. Apple and Google keep their own purchase records under their own policies.
+
+Deleting this data doesn't cancel what you bought, because your purchase belongs to your Apple or Google account. If you use the app or restore your purchase afterwards, a new anonymous record is created.
 
 ## Data we process
 
